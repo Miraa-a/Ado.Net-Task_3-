@@ -1,0 +1,16 @@
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.exe.config
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.exe
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.pdb
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.exe
+C:\Users\nick_\Desktop\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.pdb
+F:\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.exe.config
+F:\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.exe
+F:\Epam.Ismaylova.Task3\Entities\bin\Debug\Entities.pdb
+F:\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+F:\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.exe
+F:\Epam.Ismaylova.Task3\Entities\obj\Debug\Entities.pdb
